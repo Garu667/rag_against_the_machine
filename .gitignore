@@ -3,6 +3,7 @@ __pycache__/
 .python-version
 .mypy_cache
 .venv
+uv.lock
 
 data/output/
 moulinette/
